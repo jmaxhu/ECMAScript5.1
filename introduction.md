@@ -1,4 +1,4 @@
-##简介
+# 简介
 
 Ecma标准基于一些原有的技术，最出名的是网景（Netscape)的Javascript和微软（Microsoft）的JScript。当时在网景的Brendan Eich发明了这门语言，并且在该公司的Navigator2.0浏览器中第一次出现。该语言出现在了所有网景的后续浏览器和所有从Internet Explorer3.0开始的微软浏览器中。
 
