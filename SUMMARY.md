@@ -1,10 +1,10 @@
 # SUMMARY
 
-* [Introduction](introduction.md)
-* [Scope](scope.md)
-* [Conformance](conformance.md)
-* [Normative references](normative.md)
-* [Overview](ch4_overview.md)
+* [简介](introduction.md)
+* [范围](scope.md)
+* [一致性](conformance.md)
+* [引用标准](normative.md)
+* [概述](ch4_overview.md)
   * [Web Scripting](ch4_overview/webs_cripting.md)
   * [Language Overview](ch4_overview/language_overview.md)
     * [Objects](ch4_overview/language/objects.md)
