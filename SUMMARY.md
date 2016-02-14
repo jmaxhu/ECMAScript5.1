@@ -7,7 +7,7 @@
 * [概述](ch4_overview.md)
   * [Web脚本](ch4_overview/web_scripting.md)
   * [语言概述](ch4_overview/language_overview.md)
-    * [Objects](ch4_overview/language/objects.md)
+    * [对象](ch4_overview/language_objects.md)
     * [The Strict Variant of ECMAScript](ch4_overview/language/strict.md)
   * [Definitions](ch4_overview/definitions.md)
     * [type](ch4_overview/definitions.md#type)  
